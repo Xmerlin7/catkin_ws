@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel
+
+Name: MRT_description
+Description: Description of MRT_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
