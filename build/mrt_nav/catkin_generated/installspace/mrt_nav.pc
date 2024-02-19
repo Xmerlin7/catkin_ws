@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/install
+
+Name: mrt_nav
+Description: Description of mrt_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

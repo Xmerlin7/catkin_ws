@@ -1,0 +1,8 @@
+prefix=/home/seif/catkin_ws/devel
+
+Name: mrt_slam
+Description: Description of mrt_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

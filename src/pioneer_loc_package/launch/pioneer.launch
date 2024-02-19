@@ -1,0 +1,6 @@
+<launch>
+    <!-- <node name="pioneer_talker" pkg="pioneer_loc_package" type="publisher.py"/> -->
+    <node name="pioneer_talker" pkg="pioneer_loc_package" type="publisher_rviz.py"/>
+    <node name="pioneer_control" pkg="pioneer_loc_package" type="listener.py"/>
+    <node pkg="rviz" type="rviz" name="rviz" />
+</launch> 
