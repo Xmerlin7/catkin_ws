@@ -1,2 +1,2 @@
-mrt_nav:pioneer_loc:pioneer_loc_package:spcbot/spcbot_description:spcbot/spcbot_gazebo
+mrt_milestone1:mrt_nav:pioneer_loc:pioneer_loc_package:spcbot/spcbot_description:spcbot/spcbot_gazebo
 -DCATKIN_DEVEL_PREFIX=/home/seif/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/seif/catkin_ws/install -G Unix Makefiles
